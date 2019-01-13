@@ -1,0 +1,7 @@
+uploads/
+node_modules/
+.env
+awsconfig.json
+config/
+nohup.out
+todo
